@@ -27,7 +27,7 @@
 <body>
   <div id="page" class="page"></div><!-- 2.create a page container，and set up the width -->
   
-	<script type="text/javascript" src="custom-pagination.min.js"></script><!-- 3.importjs -->
+	<script type="text/javascript" src="custom-pagination.min.js"></script><!-- 3.import js -->
   <script type="text/javascript">
     // 4. use the plugin
     var box = new CustomPagination('#page', {
